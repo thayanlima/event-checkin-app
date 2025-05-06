@@ -136,3 +136,4 @@ C:\Users\ptadmin\Documents\thayan\event-checkin-app\backend\EventCheckInApi\obj\
 C:\Users\ptadmin\Documents\thayan\event-checkin-app\backend\EventCheckInApi\obj\Debug\net9.0\EventCheckInApi.pdb
 C:\Users\ptadmin\Documents\thayan\event-checkin-app\backend\EventCheckInApi\obj\Debug\net9.0\EventCheckInApi.genruntimeconfig.cache
 C:\Users\ptadmin\Documents\thayan\event-checkin-app\backend\EventCheckInApi\obj\Debug\net9.0\ref\EventCheckInApi.dll
+C:\Users\ptadmin\Documents\thayan\event-checkin-app\backend\EventCheckInApi\obj\Debug\net9.0\EventCheckInApi.sourcelink.json
