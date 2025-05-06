@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RtC1VkKWMLSEpb8ed70Bwiisv6JVjNZK2INknvdK3pI=",
+  "Source": "EventCheckInApi",
+  "BasePath": "_content/EventCheckInApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
